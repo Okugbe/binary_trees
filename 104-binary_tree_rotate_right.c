@@ -1,5 +1,5 @@
 #include "binary_trees.h"
-
+#include <stdlib.h>
 /**
  * binary_tree_rotate_right - performs a right rotation on a BT
  * @tree: pointer to the root node
